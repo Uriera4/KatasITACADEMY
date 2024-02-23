@@ -1,4 +1,5 @@
-import Kata1.Replacer;
+package Kata1;
+
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;
 

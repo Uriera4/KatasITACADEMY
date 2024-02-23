@@ -2,7 +2,7 @@ package Kata2;
 
 import java.util.GregorianCalendar;
 
-public class Main {
+public class MainKata2 {
 
     public static void main(String[] args) {
         if(esViernes13(10,2023)){

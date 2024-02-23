@@ -1,6 +1,6 @@
-package org.example;
+package Kata4;
 
-public class Main {
+public class MainKata4 {
     public static void main(String[] args) {
 
         cuentaAtras(30,2);

@@ -1,6 +1,6 @@
 package Kata3;
 
-public class Main {
+public class MainKata3 {
     public static void main(String[] args) {
 
         /*
